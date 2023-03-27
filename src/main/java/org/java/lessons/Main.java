@@ -1,4 +1,6 @@
-package org.java.lessons;public class Main {
+package org.java.lessons;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
